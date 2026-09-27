@@ -1,0 +1,6 @@
+{
+  "name": "AuraMarket - Smart Market Management System",
+  "description": "Next-generation retail and supermarket management system featuring high-velocity POS, IoT smart shelf & cold-chain telemetry, dynamic expiry markdown automation, inventory intelligence, customer loyalty CRM, and AI restock forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
